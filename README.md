@@ -22,8 +22,9 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/markFalcone/Parstagram/blob/master/Gif/Jan-03-2020%2023-06-33.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+<img src='https://github.com/markFalcone/Parstagram/blob/master/Gif/Jan-03-2020%2023-06-33.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 # Parstagram\# Parstagram - Part I
@@ -53,7 +54,7 @@ The following **bonus** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 <img src='https://github.com/markFalcone/Parstagram/blob/master/Gif/Dec-27-2019%2022-58-24.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-<img src='https://github.com/markFalcone/Parstagram/blob/master/Gif/Dec-27-2019%2023-20-20.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 
 ##Notes 
 - Not able to see images ( made changes to allow http immige links but does not show)
