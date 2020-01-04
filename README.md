@@ -24,7 +24,6 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://github.com/markFalcone/Parstagram/blob/master/Gif/Jan-03-2020%2023-06-33.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<img src='https://github.com/markFalcone/Parstagram/blob/master/Gif/Jan-03-2020%2023-06-33.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 # Parstagram\# Parstagram - Part I
